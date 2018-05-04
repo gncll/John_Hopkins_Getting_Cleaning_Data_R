@@ -1,6 +1,4 @@
-## Final Project of Getting and Cleaning Data
-
-
+library(dplyr)
 
 # To reading "txt" format files in certain directory
 
