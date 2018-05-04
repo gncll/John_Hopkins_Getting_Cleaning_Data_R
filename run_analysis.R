@@ -1,8 +1,8 @@
-##Final Project of Getting and Cleaning Data
+## Final Project of Getting and Cleaning Data
 
 
 
-#To reading "txt" format files in certain directory
+# To reading "txt" format files in certain directory
 
 
 
