@@ -89,5 +89,5 @@ Subject column is numbered sequentially from 1 to 30. Activity column has 6 type
 - "fBodyBodyGyroJerkMag-mean()"
 - "fBodyBodyGyroJerkMag-std()"
 
-## variable units
+## Variable units
 Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
